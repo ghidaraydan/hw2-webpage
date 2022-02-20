@@ -1,7 +1,7 @@
 chart-studio==1.1.0
 GitPython==3.1.26
 
-pandas==
+pandas
 
 plotly==5.6.0
 scipy==1.8.0
