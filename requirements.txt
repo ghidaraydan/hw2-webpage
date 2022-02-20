@@ -1,11 +1,11 @@
-chart-studio==1.1.0
-GitPython==3.1.26
+chart-studio
+GitPython
 
 pandas
 
-plotly==5.6.0
+plotly
 scipy
-seaborn==0.11.2
+seaborn
 
-streamlit==1.5.1
+streamlit
 
